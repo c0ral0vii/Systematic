@@ -747,4 +747,8 @@ footer.footer {
   .top-footer__body .link-t-footer-tt {
     display: block;
   }
+
+  .footer {
+    margin: 10px 0 0 0;
+  }
 }
