@@ -653,7 +653,7 @@ footer.footer {
 		font-weight: 400;
 		color: #ba2e1f;
 		background-color: #f2f2f2;
-		padding: 10px 15px
+		padding: 10px 15px;
 	}
 }
 @media screen and (max-width: 900px) {
@@ -667,5 +667,8 @@ footer.footer {
 		.link-t-footer-tt {
 			display: block;
 		}
-	}
+}
+.footer {
+	margin: 10px 0 0 0;
+}
 }
